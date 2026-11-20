@@ -12,7 +12,7 @@ This assignment builds on Units I and II. You may want to refer to them as you w
 
 | Lesson | Relevant Topics |
 |---|---|
-| [Your first configuration script](../../lessons/01-introduction/04-first-config-script.md) | Running gem5 with a configuration script, identifying key components of a configuration script (board, processor, cache hierarchy, memory, workload), reading `stats.txt`. |
+| [Your first configuration script](https://github.com/CUB-gem5-bootcamp/lessons/01-introduction/04-first-config-script.md) | Running gem5 with a configuration script, identifying key components of a configuration script (board, processor, cache hierarchy, memory, workload), reading `stats.txt`. |
 | [The gem5 standard library and resources](../../lessons/02-beginning-simulation/01-stdlib-resources.md) | Importing and using standard library components in configuration scripts. |
 | [Modeling processors in gem5](../../lessons/02-beginning-simulation/02-processors.md) | gem5 CPU models (`Simple`, `O3`, `Minor`), parameterizing a gem5 CPU by wrapping an existing model. |
 | [Modeling caches in gem5](../../lessons/02-beginning-simulation/03-caches.md) | gem5 classic caches, assembling a cache hierarchy from classic cache models. |
